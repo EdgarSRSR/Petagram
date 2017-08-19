@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">Petagram</string>
+    <string name="texto_boton_click">click</string>
+    <string name="mensaje">Favorito :)</string>
+    <string name="texto_accion">Acción</string>
+    <string-array name="planetas">
+        <item>Mercurio</item>
+        <item>Venus</item>
+        <item>Tierra</item>
+        <item>Marte</item>
+    </string-array>
+    <string name="titulo_tarjeta">Android 5.0</string>
+    <string name="descripcion_tarjeta">Esta es la versión en la que se incluyó Material Design</string>
 </resources>
